@@ -1,0 +1,13 @@
+# App
+app/node_modules/
+app/dist/
+app/.env
+app/.env.local
+
+# Firmware
+firmware/.pio/
+firmware/.pioenvs/
+firmware/.piolibdeps/
+
+# Firebase
+.firebase/
